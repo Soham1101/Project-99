@@ -3,7 +3,7 @@ import os
 import shutil
 
 folder = input("Path: ")
-days = 90
+days = 30
 timeInSeconds = 0
 isexist = bool(False)
 
